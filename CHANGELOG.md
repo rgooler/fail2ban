@@ -2,6 +2,9 @@ fail2ban Cookbook CHANGELOG
 ===========================
 This file is used to list changes made in each version of the fail2ban cookbook.
 
+## 3.1.1 (2016-12-7)
+- [#45] Build works on Ubuntu 16.04 
+
 ## 3.1.0 (2016-11-14)
 - Add support for jail ignorecommand
 
